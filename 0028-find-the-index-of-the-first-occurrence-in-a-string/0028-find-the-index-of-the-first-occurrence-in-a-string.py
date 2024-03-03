@@ -1,26 +1,31 @@
 class Solution(object):
     def strStr(self, haystack, needle):
 
-        if len(needle) > len(haystack):
-            return-1
+        if len(haystack) < len(needle):
+            return -1 
             
-        if needle == haystack:
-            return 0
-        
-        for i in range(len(haystack)):
-            j = 0
-            tmp = ""
-            char = haystack[i]
-            if char == needle[j]:
-                for t in haystack[i:]:
-
-                    if t == needle[j]:
-                        tmp = tmp + t
-                        j += 1
-                        if tmp == needle:
-                            return i
+        l = 0
+        r = 0
+        ind = 0
+        while l < len(haystack) and r < len(needle):
+            if haystack[l] == needle[r]:
+                tmp = l
+                for st in haystack[l:]:
+                    if st == needle[r]:
+                        r += 1
                     else:
+                        r = 0
                         break
-
+                    
+                    if r == len(needle):
+                        return tmp
+                l += 1
+            else:
+                l += 1
+                r = 0
+        
         return -1
+            
+            
+        
         
