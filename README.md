@@ -14,8 +14,18 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Array
 |  |
 | ------- |
+| [0876-hand-of-straights](https://github.com/AkifSivas58/LeetSols/tree/master/0876-hand-of-straights) |
 | [1044-find-common-characters](https://github.com/AkifSivas58/LeetSols/tree/master/1044-find-common-characters) |
 # Hash Table
 |  |
 | ------- |
+| [0876-hand-of-straights](https://github.com/AkifSivas58/LeetSols/tree/master/0876-hand-of-straights) |
 | [1044-find-common-characters](https://github.com/AkifSivas58/LeetSols/tree/master/1044-find-common-characters) |
+# Greedy
+|  |
+| ------- |
+| [0876-hand-of-straights](https://github.com/AkifSivas58/LeetSols/tree/master/0876-hand-of-straights) |
+# Sorting
+|  |
+| ------- |
+| [0876-hand-of-straights](https://github.com/AkifSivas58/LeetSols/tree/master/0876-hand-of-straights) |
