@@ -2,19 +2,21 @@ class Solution(object):
     def replaceWords(self, dictionary, sentence):
         dicts = set(dictionary)
         words = sentence.split()
-        res = ""
+        res = []
+        
         for word in words:
             current = ""
+            found = False
             for ch in word:
-                current = current + ch
+                current += ch
                 if current in dicts:
-                    res = res + current + " "
+                    res.append(current)
+                    found = True
                     break
             
-            if current in dicts:
-                continue
-            res = res + current + " "
+            if not found:
+                res.append(word)
         
-        return res.rstrip()
+        return " ".join(res)
                 
         
