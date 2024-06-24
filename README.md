@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/AkifSivas58/LeetSols/tree/master/0001-two-sum) |
 | [0075-sort-colors](https://github.com/AkifSivas58/LeetSols/tree/master/0075-sort-colors) |
 | [0502-ipo](https://github.com/AkifSivas58/LeetSols/tree/master/0502-ipo) |
 | [0648-replace-words](https://github.com/AkifSivas58/LeetSols/tree/master/0648-replace-words) |
@@ -34,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/AkifSivas58/LeetSols/tree/master/0001-two-sum) |
 | [0648-replace-words](https://github.com/AkifSivas58/LeetSols/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/AkifSivas58/LeetSols/tree/master/0876-hand-of-straights) |
 | [1044-find-common-characters](https://github.com/AkifSivas58/LeetSols/tree/master/1044-find-common-characters) |
