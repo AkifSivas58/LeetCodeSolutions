@@ -96,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/AkifSivas58/LeetSols/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [1293-three-consecutive-odds](https://github.com/AkifSivas58/LeetSols/tree/master/1293-three-consecutive-odds) |
 ## Hash Table
 |  |
 | ------- |
