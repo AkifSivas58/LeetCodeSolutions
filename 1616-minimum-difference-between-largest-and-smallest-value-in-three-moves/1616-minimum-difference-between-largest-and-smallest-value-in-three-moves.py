@@ -1,14 +1,16 @@
 class Solution(object):
     def minDifference(self, nums):
         n = len(nums)
-        nums.sort()
-        
         if n <= 3:
             return 0
         
-        r1 = max(nums[:-3]) - min(nums[:-3])
-        r2 = max(nums[1:-2]) - min(nums[1:-2])
-        r3 = max(nums[2:-1]) - min(nums[2:-1])
-        r4 = max(nums[3:]) - min(nums[3:])
-        res = min(r1, r2, r3, r4)
-        return res
+        nums.sort()
+        
+        # Calculate the four possible differences
+        r1 = nums[n-1] - nums[3]
+        r2 = nums[n-2] - nums[2]
+        r3 = nums[n-3] - nums[1]
+        r4 = nums[n-4] - nums[0]
+        
+        # Return the minimum difference
+        return min(r1, r2, r3, r4)
