@@ -97,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AkifSivas58/LeetSols/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/AkifSivas58/LeetSols/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0921-spiral-matrix-iii](https://github.com/AkifSivas58/LeetSols/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/AkifSivas58/LeetSols/tree/master/0948-sort-an-array) |
 | [1196-filling-bookcase-shelves](https://github.com/AkifSivas58/LeetSols/tree/master/1196-filling-bookcase-shelves) |
 | [1293-three-consecutive-odds](https://github.com/AkifSivas58/LeetSols/tree/master/1293-three-consecutive-odds) |
@@ -167,6 +168,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [0921-spiral-matrix-iii](https://github.com/AkifSivas58/LeetSols/tree/master/0921-spiral-matrix-iii) |
 | [1642-water-bottles](https://github.com/AkifSivas58/LeetSols/tree/master/1642-water-bottles) |
 | [1803-average-waiting-time](https://github.com/AkifSivas58/LeetSols/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/AkifSivas58/LeetSols/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -256,4 +258,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/AkifSivas58/LeetSols/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+## Matrix
+|  |
+| ------- |
+| [0921-spiral-matrix-iii](https://github.com/AkifSivas58/LeetSols/tree/master/0921-spiral-matrix-iii) |
 <!---LeetCode Topics End-->
