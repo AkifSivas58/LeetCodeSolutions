@@ -95,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/AkifSivas58/LeetSols/tree/master/0040-combination-sum-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AkifSivas58/LeetSols/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/AkifSivas58/LeetSols/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/AkifSivas58/LeetSols/tree/master/0748-largest-number-at-least-twice-of-others) |
@@ -268,4 +269,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0870-magic-squares-in-grid](https://github.com/AkifSivas58/LeetSols/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/AkifSivas58/LeetSols/tree/master/0921-spiral-matrix-iii) |
+## Backtracking
+|  |
+| ------- |
+| [0040-combination-sum-ii](https://github.com/AkifSivas58/LeetSols/tree/master/0040-combination-sum-ii) |
 <!---LeetCode Topics End-->
