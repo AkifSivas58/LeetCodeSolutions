@@ -183,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/AkifSivas58/LeetSols/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/AkifSivas58/LeetSols/tree/master/0021-merge-two-sorted-lists) |
 | [0725-split-linked-list-in-parts](https://github.com/AkifSivas58/LeetSols/tree/master/0725-split-linked-list-in-parts) |
 | [1484-linked-list-in-binary-tree](https://github.com/AkifSivas58/LeetSols/tree/master/1484-linked-list-in-binary-tree) |
@@ -203,6 +204,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/AkifSivas58/LeetSols/tree/master/0002-add-two-numbers) |
 | [0273-integer-to-english-words](https://github.com/AkifSivas58/LeetSols/tree/master/0273-integer-to-english-words) |
 | [0870-magic-squares-in-grid](https://github.com/AkifSivas58/LeetSols/tree/master/0870-magic-squares-in-grid) |
 | [1642-water-bottles](https://github.com/AkifSivas58/LeetSols/tree/master/1642-water-bottles) |
@@ -212,6 +214,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/AkifSivas58/LeetSols/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/AkifSivas58/LeetSols/tree/master/0021-merge-two-sorted-lists) |
 | [0273-integer-to-english-words](https://github.com/AkifSivas58/LeetSols/tree/master/0273-integer-to-english-words) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/AkifSivas58/LeetSols/tree/master/1951-find-the-winner-of-the-circular-game) |
