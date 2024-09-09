@@ -124,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2502-sort-the-people](https://github.com/AkifSivas58/LeetSols/tree/master/2502-sort-the-people) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/AkifSivas58/LeetSols/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2727-number-of-senior-citizens](https://github.com/AkifSivas58/LeetSols/tree/master/2727-number-of-senior-citizens) |
+| [2881-split-strings-by-separator](https://github.com/AkifSivas58/LeetSols/tree/master/2881-split-strings-by-separator) |
 ## Hash Table
 |  |
 | ------- |
@@ -229,6 +230,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2163-kth-distinct-string-in-an-array](https://github.com/AkifSivas58/LeetSols/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/AkifSivas58/LeetSols/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/AkifSivas58/LeetSols/tree/master/2727-number-of-senior-citizens) |
+| [2881-split-strings-by-separator](https://github.com/AkifSivas58/LeetSols/tree/master/2881-split-strings-by-separator) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/AkifSivas58/LeetSols/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Stack
 |  |
