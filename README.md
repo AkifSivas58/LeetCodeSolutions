@@ -213,6 +213,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2155-find-missing-observations](https://github.com/AkifSivas58/LeetSols/tree/master/2155-find-missing-observations) |
 | [2645-pass-the-pillow](https://github.com/AkifSivas58/LeetSols/tree/master/2645-pass-the-pillow) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/AkifSivas58/LeetSols/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [2955-account-balance-after-rounded-purchase](https://github.com/AkifSivas58/LeetSols/tree/master/2955-account-balance-after-rounded-purchase) |
 ## Recursion
 |  |
 | ------- |
