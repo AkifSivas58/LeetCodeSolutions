@@ -111,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1287-distance-between-bus-stops](https://github.com/AkifSivas58/LeetSols/tree/master/1287-distance-between-bus-stops) |
 | [1293-three-consecutive-odds](https://github.com/AkifSivas58/LeetSols/tree/master/1293-three-consecutive-odds) |
 | [1333-sort-the-jumbled-numbers](https://github.com/AkifSivas58/LeetSols/tree/master/1333-sort-the-jumbled-numbers) |
+| [1435-xor-queries-of-a-subarray](https://github.com/AkifSivas58/LeetSols/tree/master/1435-xor-queries-of-a-subarray) |
 | [1511-count-number-of-teams](https://github.com/AkifSivas58/LeetSols/tree/master/1511-count-number-of-teams) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/AkifSivas58/LeetSols/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/AkifSivas58/LeetSols/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -146,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/AkifSivas58/LeetSols/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0476-number-complement](https://github.com/AkifSivas58/LeetSols/tree/master/0476-number-complement) |
+| [1435-xor-queries-of-a-subarray](https://github.com/AkifSivas58/LeetSols/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/AkifSivas58/LeetSols/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/AkifSivas58/LeetSols/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Trie
@@ -343,4 +345,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/AkifSivas58/LeetSols/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+## Prefix Sum
+|  |
+| ------- |
+| [1435-xor-queries-of-a-subarray](https://github.com/AkifSivas58/LeetSols/tree/master/1435-xor-queries-of-a-subarray) |
 <!---LeetCode Topics End-->
