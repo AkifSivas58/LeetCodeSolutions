@@ -99,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0040-combination-sum-ii](https://github.com/AkifSivas58/LeetSols/tree/master/0040-combination-sum-ii) |
 | [0048-rotate-image](https://github.com/AkifSivas58/LeetSols/tree/master/0048-rotate-image) |
 | [0059-spiral-matrix-ii](https://github.com/AkifSivas58/LeetSols/tree/master/0059-spiral-matrix-ii) |
+| [0066-plus-one](https://github.com/AkifSivas58/LeetSols/tree/master/0066-plus-one) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AkifSivas58/LeetSols/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/AkifSivas58/LeetSols/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0539-minimum-time-difference](https://github.com/AkifSivas58/LeetSols/tree/master/0539-minimum-time-difference) |
@@ -223,6 +224,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0002-add-two-numbers](https://github.com/AkifSivas58/LeetSols/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/AkifSivas58/LeetSols/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/AkifSivas58/LeetSols/tree/master/0066-plus-one) |
 | [0273-integer-to-english-words](https://github.com/AkifSivas58/LeetSols/tree/master/0273-integer-to-english-words) |
 | [0539-minimum-time-difference](https://github.com/AkifSivas58/LeetSols/tree/master/0539-minimum-time-difference) |
 | [0870-magic-squares-in-grid](https://github.com/AkifSivas58/LeetSols/tree/master/0870-magic-squares-in-grid) |
