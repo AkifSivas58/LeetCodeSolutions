@@ -101,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/AkifSivas58/LeetSols/tree/master/0048-rotate-image) |
 | [0059-spiral-matrix-ii](https://github.com/AkifSivas58/LeetSols/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/AkifSivas58/LeetSols/tree/master/0066-plus-one) |
+| [0078-subsets](https://github.com/AkifSivas58/LeetSols/tree/master/0078-subsets) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AkifSivas58/LeetSols/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/AkifSivas58/LeetSols/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0539-minimum-time-difference](https://github.com/AkifSivas58/LeetSols/tree/master/0539-minimum-time-difference) |
@@ -152,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/AkifSivas58/LeetSols/tree/master/0078-subsets) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/AkifSivas58/LeetSols/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0476-number-complement](https://github.com/AkifSivas58/LeetSols/tree/master/0476-number-complement) |
 | [1435-xor-queries-of-a-subarray](https://github.com/AkifSivas58/LeetSols/tree/master/1435-xor-queries-of-a-subarray) |
@@ -337,6 +339,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0039-combination-sum](https://github.com/AkifSivas58/LeetSols/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/AkifSivas58/LeetSols/tree/master/0040-combination-sum-ii) |
+| [0078-subsets](https://github.com/AkifSivas58/LeetSols/tree/master/0078-subsets) |
 ## Tree
 |  |
 | ------- |
