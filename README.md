@@ -200,6 +200,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0890-lemonade-change](https://github.com/AkifSivas58/LeetSols/tree/master/0890-lemonade-change) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/AkifSivas58/LeetSols/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/AkifSivas58/LeetSols/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/AkifSivas58/LeetSols/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/AkifSivas58/LeetSols/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Linked List
 |  |
@@ -235,6 +236,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0870-magic-squares-in-grid](https://github.com/AkifSivas58/LeetSols/tree/master/0870-magic-squares-in-grid) |
 | [1642-water-bottles](https://github.com/AkifSivas58/LeetSols/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/AkifSivas58/LeetSols/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/AkifSivas58/LeetSols/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2155-find-missing-observations](https://github.com/AkifSivas58/LeetSols/tree/master/2155-find-missing-observations) |
 | [2645-pass-the-pillow](https://github.com/AkifSivas58/LeetSols/tree/master/2645-pass-the-pillow) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/AkifSivas58/LeetSols/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -262,6 +264,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/AkifSivas58/LeetSols/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/AkifSivas58/LeetSols/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/AkifSivas58/LeetSols/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/AkifSivas58/LeetSols/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/AkifSivas58/LeetSols/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/AkifSivas58/LeetSols/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/AkifSivas58/LeetSols/tree/master/2727-number-of-senior-citizens) |
@@ -376,4 +379,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/AkifSivas58/LeetSols/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Game Theory
+|  |
+| ------- |
+| [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/AkifSivas58/LeetSols/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 <!---LeetCode Topics End-->
