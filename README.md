@@ -234,6 +234,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/AkifSivas58/LeetSols/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/AkifSivas58/LeetSols/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/AkifSivas58/LeetSols/tree/master/0066-plus-one) |
+| [0241-different-ways-to-add-parentheses](https://github.com/AkifSivas58/LeetSols/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/AkifSivas58/LeetSols/tree/master/0273-integer-to-english-words) |
 | [0539-minimum-time-difference](https://github.com/AkifSivas58/LeetSols/tree/master/0539-minimum-time-difference) |
 | [0870-magic-squares-in-grid](https://github.com/AkifSivas58/LeetSols/tree/master/0870-magic-squares-in-grid) |
@@ -249,6 +250,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0002-add-two-numbers](https://github.com/AkifSivas58/LeetSols/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/AkifSivas58/LeetSols/tree/master/0021-merge-two-sorted-lists) |
+| [0241-different-ways-to-add-parentheses](https://github.com/AkifSivas58/LeetSols/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/AkifSivas58/LeetSols/tree/master/0273-integer-to-english-words) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/AkifSivas58/LeetSols/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Queue
@@ -259,6 +261,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/AkifSivas58/LeetSols/tree/master/0179-largest-number) |
+| [0241-different-ways-to-add-parentheses](https://github.com/AkifSivas58/LeetSols/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/AkifSivas58/LeetSols/tree/master/0273-integer-to-english-words) |
 | [0539-minimum-time-difference](https://github.com/AkifSivas58/LeetSols/tree/master/0539-minimum-time-difference) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/AkifSivas58/LeetSols/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -312,6 +315,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/AkifSivas58/LeetSols/tree/master/0241-different-ways-to-add-parentheses) |
 | [1196-filling-bookcase-shelves](https://github.com/AkifSivas58/LeetSols/tree/master/1196-filling-bookcase-shelves) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/AkifSivas58/LeetSols/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/AkifSivas58/LeetSols/tree/master/1511-count-number-of-teams) |
@@ -387,4 +391,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/AkifSivas58/LeetSols/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
+## Memoization
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/AkifSivas58/LeetSols/tree/master/0241-different-ways-to-add-parentheses) |
 <!---LeetCode Topics End-->
