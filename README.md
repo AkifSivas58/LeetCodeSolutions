@@ -166,6 +166,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Trie
 |  |
 | ------- |
+| [0386-lexicographical-numbers](https://github.com/AkifSivas58/LeetSols/tree/master/0386-lexicographical-numbers) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/AkifSivas58/LeetSols/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 ## Two Pointers
 |  |
@@ -363,6 +364,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 |  |
 | ------- |
+| [0386-lexicographical-numbers](https://github.com/AkifSivas58/LeetSols/tree/master/0386-lexicographical-numbers) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/AkifSivas58/LeetSols/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/AkifSivas58/LeetSols/tree/master/1484-linked-list-in-binary-tree) |
 ## Breadth-First Search
