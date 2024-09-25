@@ -99,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0039-combination-sum](https://github.com/AkifSivas58/LeetSols/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/AkifSivas58/LeetSols/tree/master/0040-combination-sum-ii) |
 | [0048-rotate-image](https://github.com/AkifSivas58/LeetSols/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/AkifSivas58/LeetSols/tree/master/0049-group-anagrams) |
 | [0059-spiral-matrix-ii](https://github.com/AkifSivas58/LeetSols/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/AkifSivas58/LeetSols/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/AkifSivas58/LeetSols/tree/master/0078-subsets) |
@@ -143,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/AkifSivas58/LeetSols/tree/master/0049-group-anagrams) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AkifSivas58/LeetSols/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/AkifSivas58/LeetSols/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0870-magic-squares-in-grid](https://github.com/AkifSivas58/LeetSols/tree/master/0870-magic-squares-in-grid) |
@@ -189,6 +191,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/AkifSivas58/LeetSols/tree/master/0049-group-anagrams) |
 | [0179-largest-number](https://github.com/AkifSivas58/LeetSols/tree/master/0179-largest-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AkifSivas58/LeetSols/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0539-minimum-time-difference](https://github.com/AkifSivas58/LeetSols/tree/master/0539-minimum-time-difference) |
@@ -270,6 +273,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/AkifSivas58/LeetSols/tree/master/0006-zigzag-conversion) |
+| [0049-group-anagrams](https://github.com/AkifSivas58/LeetSols/tree/master/0049-group-anagrams) |
 | [0179-largest-number](https://github.com/AkifSivas58/LeetSols/tree/master/0179-largest-number) |
 | [0241-different-ways-to-add-parentheses](https://github.com/AkifSivas58/LeetSols/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/AkifSivas58/LeetSols/tree/master/0273-integer-to-english-words) |
