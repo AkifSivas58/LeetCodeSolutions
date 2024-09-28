@@ -110,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0624-maximum-distance-in-arrays](https://github.com/AkifSivas58/LeetSols/tree/master/0624-maximum-distance-in-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/AkifSivas58/LeetSols/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/AkifSivas58/LeetSols/tree/master/0748-largest-number-at-least-twice-of-others) |
+| [0859-design-circular-deque](https://github.com/AkifSivas58/LeetSols/tree/master/0859-design-circular-deque) |
 | [0870-magic-squares-in-grid](https://github.com/AkifSivas58/LeetSols/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/AkifSivas58/LeetSols/tree/master/0890-lemonade-change) |
 | [0921-spiral-matrix-iii](https://github.com/AkifSivas58/LeetSols/tree/master/0921-spiral-matrix-iii) |
@@ -225,6 +226,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0021-merge-two-sorted-lists](https://github.com/AkifSivas58/LeetSols/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/AkifSivas58/LeetSols/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0725-split-linked-list-in-parts](https://github.com/AkifSivas58/LeetSols/tree/master/0725-split-linked-list-in-parts) |
+| [0859-design-circular-deque](https://github.com/AkifSivas58/LeetSols/tree/master/0859-design-circular-deque) |
 | [1484-linked-list-in-binary-tree](https://github.com/AkifSivas58/LeetSols/tree/master/1484-linked-list-in-binary-tree) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/AkifSivas58/LeetSols/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/AkifSivas58/LeetSols/tree/master/2299-merge-nodes-in-between-zeros) |
@@ -271,6 +273,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Queue
 |  |
 | ------- |
+| [0859-design-circular-deque](https://github.com/AkifSivas58/LeetSols/tree/master/0859-design-circular-deque) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/AkifSivas58/LeetSols/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## String
 |  |
@@ -425,4 +428,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/AkifSivas58/LeetSols/tree/master/0062-unique-paths) |
+## Design
+|  |
+| ------- |
+| [0859-design-circular-deque](https://github.com/AkifSivas58/LeetSols/tree/master/0859-design-circular-deque) |
 <!---LeetCode Topics End-->
