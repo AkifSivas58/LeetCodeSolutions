@@ -115,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0890-lemonade-change](https://github.com/AkifSivas58/LeetSols/tree/master/0890-lemonade-change) |
 | [0921-spiral-matrix-iii](https://github.com/AkifSivas58/LeetSols/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/AkifSivas58/LeetSols/tree/master/0948-sort-an-array) |
+| [1002-maximum-width-ramp](https://github.com/AkifSivas58/LeetSols/tree/master/1002-maximum-width-ramp) |
 | [1196-filling-bookcase-shelves](https://github.com/AkifSivas58/LeetSols/tree/master/1196-filling-bookcase-shelves) |
 | [1256-rank-transform-of-an-array](https://github.com/AkifSivas58/LeetSols/tree/master/1256-rank-transform-of-an-array) |
 | [1287-distance-between-bus-stops](https://github.com/AkifSivas58/LeetSols/tree/master/1287-distance-between-bus-stops) |
@@ -330,6 +331,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/AkifSivas58/LeetSols/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1002-maximum-width-ramp](https://github.com/AkifSivas58/LeetSols/tree/master/1002-maximum-width-ramp) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/AkifSivas58/LeetSols/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/AkifSivas58/LeetSols/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1720-crawler-log-folder](https://github.com/AkifSivas58/LeetSols/tree/master/1720-crawler-log-folder) |
@@ -469,4 +471,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0859-design-circular-deque](https://github.com/AkifSivas58/LeetSols/tree/master/0859-design-circular-deque) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/AkifSivas58/LeetSols/tree/master/1497-design-a-stack-with-increment-operation) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1002-maximum-width-ramp](https://github.com/AkifSivas58/LeetSols/tree/master/1002-maximum-width-ramp) |
 <!---LeetCode Topics End-->
