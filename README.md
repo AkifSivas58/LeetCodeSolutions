@@ -104,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0066-plus-one](https://github.com/AkifSivas58/LeetSols/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/AkifSivas58/LeetSols/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/AkifSivas58/LeetSols/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/AkifSivas58/LeetSols/tree/master/0079-word-search) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AkifSivas58/LeetSols/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AkifSivas58/LeetSols/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/AkifSivas58/LeetSols/tree/master/0179-largest-number) |
@@ -325,6 +326,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0006-zigzag-conversion](https://github.com/AkifSivas58/LeetSols/tree/master/0006-zigzag-conversion) |
 | [0049-group-anagrams](https://github.com/AkifSivas58/LeetSols/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/AkifSivas58/LeetSols/tree/master/0058-length-of-last-word) |
+| [0079-word-search](https://github.com/AkifSivas58/LeetSols/tree/master/0079-word-search) |
 | [0179-largest-number](https://github.com/AkifSivas58/LeetSols/tree/master/0179-largest-number) |
 | [0241-different-ways-to-add-parentheses](https://github.com/AkifSivas58/LeetSols/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/AkifSivas58/LeetSols/tree/master/0273-integer-to-english-words) |
@@ -429,6 +431,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/AkifSivas58/LeetSols/tree/master/0048-rotate-image) |
 | [0059-spiral-matrix-ii](https://github.com/AkifSivas58/LeetSols/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/AkifSivas58/LeetSols/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/AkifSivas58/LeetSols/tree/master/0079-word-search) |
 | [0870-magic-squares-in-grid](https://github.com/AkifSivas58/LeetSols/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/AkifSivas58/LeetSols/tree/master/0921-spiral-matrix-iii) |
 | [2411-spiral-matrix-iv](https://github.com/AkifSivas58/LeetSols/tree/master/2411-spiral-matrix-iv) |
@@ -442,6 +445,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0039-combination-sum](https://github.com/AkifSivas58/LeetSols/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/AkifSivas58/LeetSols/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/AkifSivas58/LeetSols/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/AkifSivas58/LeetSols/tree/master/0079-word-search) |
 ## Tree
 |  |
 | ------- |
