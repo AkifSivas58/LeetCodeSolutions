@@ -315,6 +315,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0006-zigzag-conversion](https://github.com/AkifSivas58/LeetSols/tree/master/0006-zigzag-conversion) |
 | [0049-group-anagrams](https://github.com/AkifSivas58/LeetSols/tree/master/0049-group-anagrams) |
+| [0058-length-of-last-word](https://github.com/AkifSivas58/LeetSols/tree/master/0058-length-of-last-word) |
 | [0179-largest-number](https://github.com/AkifSivas58/LeetSols/tree/master/0179-largest-number) |
 | [0241-different-ways-to-add-parentheses](https://github.com/AkifSivas58/LeetSols/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/AkifSivas58/LeetSols/tree/master/0273-integer-to-english-words) |
