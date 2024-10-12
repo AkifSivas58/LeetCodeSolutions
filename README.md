@@ -102,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/AkifSivas58/LeetSols/tree/master/0049-group-anagrams) |
 | [0059-spiral-matrix-ii](https://github.com/AkifSivas58/LeetSols/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/AkifSivas58/LeetSols/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/AkifSivas58/LeetSols/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/AkifSivas58/LeetSols/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AkifSivas58/LeetSols/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AkifSivas58/LeetSols/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -161,6 +162,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/AkifSivas58/LeetSols/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/AkifSivas58/LeetSols/tree/master/0073-set-matrix-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AkifSivas58/LeetSols/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/AkifSivas58/LeetSols/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0567-permutation-in-string](https://github.com/AkifSivas58/LeetSols/tree/master/0567-permutation-in-string) |
@@ -422,6 +424,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0048-rotate-image](https://github.com/AkifSivas58/LeetSols/tree/master/0048-rotate-image) |
 | [0059-spiral-matrix-ii](https://github.com/AkifSivas58/LeetSols/tree/master/0059-spiral-matrix-ii) |
+| [0073-set-matrix-zeroes](https://github.com/AkifSivas58/LeetSols/tree/master/0073-set-matrix-zeroes) |
 | [0870-magic-squares-in-grid](https://github.com/AkifSivas58/LeetSols/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/AkifSivas58/LeetSols/tree/master/0921-spiral-matrix-iii) |
 | [2411-spiral-matrix-iv](https://github.com/AkifSivas58/LeetSols/tree/master/2411-spiral-matrix-iv) |
