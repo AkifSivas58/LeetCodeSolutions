@@ -215,6 +215,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/AkifSivas58/LeetSols/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AkifSivas58/LeetSols/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AkifSivas58/LeetSols/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/AkifSivas58/LeetSols/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -289,6 +290,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/AkifSivas58/LeetSols/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/AkifSivas58/LeetSols/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/AkifSivas58/LeetSols/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/AkifSivas58/LeetSols/tree/master/0069-sqrtx) |
 | [0241-different-ways-to-add-parentheses](https://github.com/AkifSivas58/LeetSols/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/AkifSivas58/LeetSols/tree/master/0273-integer-to-english-words) |
 | [0539-minimum-time-difference](https://github.com/AkifSivas58/LeetSols/tree/master/0539-minimum-time-difference) |
