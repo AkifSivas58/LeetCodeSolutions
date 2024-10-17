@@ -257,6 +257,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0455-assign-cookies](https://github.com/AkifSivas58/LeetSols/tree/master/0455-assign-cookies) |
 | [0624-maximum-distance-in-arrays](https://github.com/AkifSivas58/LeetSols/tree/master/0624-maximum-distance-in-arrays) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/AkifSivas58/LeetSols/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0670-maximum-swap](https://github.com/AkifSivas58/LeetSols/tree/master/0670-maximum-swap) |
 | [0890-lemonade-change](https://github.com/AkifSivas58/LeetSols/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/AkifSivas58/LeetSols/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/AkifSivas58/LeetSols/tree/master/1304-longest-happy-string) |
@@ -307,6 +308,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0241-different-ways-to-add-parentheses](https://github.com/AkifSivas58/LeetSols/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/AkifSivas58/LeetSols/tree/master/0273-integer-to-english-words) |
 | [0539-minimum-time-difference](https://github.com/AkifSivas58/LeetSols/tree/master/0539-minimum-time-difference) |
+| [0670-maximum-swap](https://github.com/AkifSivas58/LeetSols/tree/master/0670-maximum-swap) |
 | [0870-magic-squares-in-grid](https://github.com/AkifSivas58/LeetSols/tree/master/0870-magic-squares-in-grid) |
 | [1642-water-bottles](https://github.com/AkifSivas58/LeetSols/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/AkifSivas58/LeetSols/tree/master/1951-find-the-winner-of-the-circular-game) |
