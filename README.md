@@ -186,6 +186,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2502-sort-the-people](https://github.com/AkifSivas58/LeetSols/tree/master/2502-sort-the-people) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/AkifSivas58/LeetSols/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/AkifSivas58/LeetSols/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2677-cousins-in-binary-tree-ii](https://github.com/AkifSivas58/LeetSols/tree/master/2677-cousins-in-binary-tree-ii) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/AkifSivas58/LeetSols/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/AkifSivas58/LeetSols/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Bit Manipulation
@@ -479,23 +480,27 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/AkifSivas58/LeetSols/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/AkifSivas58/LeetSols/tree/master/1484-linked-list-in-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/AkifSivas58/LeetSols/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [2677-cousins-in-binary-tree-ii](https://github.com/AkifSivas58/LeetSols/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/AkifSivas58/LeetSols/tree/master/0386-lexicographical-numbers) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/AkifSivas58/LeetSols/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/AkifSivas58/LeetSols/tree/master/1484-linked-list-in-binary-tree) |
+| [2677-cousins-in-binary-tree-ii](https://github.com/AkifSivas58/LeetSols/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [1484-linked-list-in-binary-tree](https://github.com/AkifSivas58/LeetSols/tree/master/1484-linked-list-in-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/AkifSivas58/LeetSols/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [2677-cousins-in-binary-tree-ii](https://github.com/AkifSivas58/LeetSols/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Binary Tree
 |  |
 | ------- |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/AkifSivas58/LeetSols/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/AkifSivas58/LeetSols/tree/master/1484-linked-list-in-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/AkifSivas58/LeetSols/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [2677-cousins-in-binary-tree-ii](https://github.com/AkifSivas58/LeetSols/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Number Theory
 |  |
 | ------- |
