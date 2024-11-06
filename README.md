@@ -161,6 +161,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2727-number-of-senior-citizens](https://github.com/AkifSivas58/LeetSols/tree/master/2727-number-of-senior-citizens) |
 | [2881-split-strings-by-separator](https://github.com/AkifSivas58/LeetSols/tree/master/2881-split-strings-by-separator) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/AkifSivas58/LeetSols/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
+| [3291-find-if-array-can-be-sorted](https://github.com/AkifSivas58/LeetSols/tree/master/3291-find-if-array-can-be-sorted) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/AkifSivas58/LeetSols/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3338-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/AkifSivas58/LeetSols/tree/master/3338-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/AkifSivas58/LeetSols/tree/master/3397-find-the-integer-added-to-array-i) |
@@ -204,6 +205,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/AkifSivas58/LeetSols/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/AkifSivas58/LeetSols/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/AkifSivas58/LeetSols/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [3291-find-if-array-can-be-sorted](https://github.com/AkifSivas58/LeetSols/tree/master/3291-find-if-array-can-be-sorted) |
 ## Trie
 |  |
 | ------- |
@@ -262,6 +264,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2631-sort-the-students-by-their-kth-score](https://github.com/AkifSivas58/LeetSols/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/AkifSivas58/LeetSols/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/AkifSivas58/LeetSols/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3291-find-if-array-can-be-sorted](https://github.com/AkifSivas58/LeetSols/tree/master/3291-find-if-array-can-be-sorted) |
 ## Greedy
 |  |
 | ------- |
