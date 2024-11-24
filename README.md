@@ -146,6 +146,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1951-find-the-winner-of-the-circular-game](https://github.com/AkifSivas58/LeetSols/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1972-rotating-the-box](https://github.com/AkifSivas58/LeetSols/tree/master/1972-rotating-the-box) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/AkifSivas58/LeetSols/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2089-maximum-matrix-sum](https://github.com/AkifSivas58/LeetSols/tree/master/2089-maximum-matrix-sum) |
 | [2155-find-missing-observations](https://github.com/AkifSivas58/LeetSols/tree/master/2155-find-missing-observations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/AkifSivas58/LeetSols/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/AkifSivas58/LeetSols/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -284,6 +285,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1304-longest-happy-string](https://github.com/AkifSivas58/LeetSols/tree/master/1304-longest-happy-string) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/AkifSivas58/LeetSols/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/AkifSivas58/LeetSols/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2089-maximum-matrix-sum](https://github.com/AkifSivas58/LeetSols/tree/master/2089-maximum-matrix-sum) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/AkifSivas58/LeetSols/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/AkifSivas58/LeetSols/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/AkifSivas58/LeetSols/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -486,6 +488,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0870-magic-squares-in-grid](https://github.com/AkifSivas58/LeetSols/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/AkifSivas58/LeetSols/tree/master/0921-spiral-matrix-iii) |
 | [1972-rotating-the-box](https://github.com/AkifSivas58/LeetSols/tree/master/1972-rotating-the-box) |
+| [2089-maximum-matrix-sum](https://github.com/AkifSivas58/LeetSols/tree/master/2089-maximum-matrix-sum) |
 | [2411-spiral-matrix-iv](https://github.com/AkifSivas58/LeetSols/tree/master/2411-spiral-matrix-iv) |
 | [2625-increment-submatrices-by-one](https://github.com/AkifSivas58/LeetSols/tree/master/2625-increment-submatrices-by-one) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/AkifSivas58/LeetSols/tree/master/2631-sort-the-students-by-their-kth-score) |
