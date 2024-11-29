@@ -397,6 +397,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3195-separate-black-and-white-balls](https://github.com/AkifSivas58/LeetSols/tree/master/3195-separate-black-and-white-balls) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/AkifSivas58/LeetSols/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/AkifSivas58/LeetSols/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3468-find-the-encrypted-string](https://github.com/AkifSivas58/LeetSols/tree/master/3468-find-the-encrypted-string) |
 ## Stack
 |  |
 | ------- |
