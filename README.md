@@ -162,6 +162,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2616-maximal-score-after-applying-k-operations](https://github.com/AkifSivas58/LeetSols/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2625-increment-submatrices-by-one](https://github.com/AkifSivas58/LeetSols/tree/master/2625-increment-submatrices-by-one) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/AkifSivas58/LeetSols/tree/master/2631-sort-the-students-by-their-kth-score) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/AkifSivas58/LeetSols/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2676-find-the-score-of-all-prefixes-of-an-array](https://github.com/AkifSivas58/LeetSols/tree/master/2676-find-the-score-of-all-prefixes-of-an-array) |
 | [2727-number-of-senior-citizens](https://github.com/AkifSivas58/LeetSols/tree/master/2727-number-of-senior-citizens) |
 | [2881-split-strings-by-separator](https://github.com/AkifSivas58/LeetSols/tree/master/2881-split-strings-by-separator) |
@@ -195,6 +196,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/AkifSivas58/LeetSols/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/AkifSivas58/LeetSols/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/AkifSivas58/LeetSols/tree/master/2586-longest-square-streak-in-an-array) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/AkifSivas58/LeetSols/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/AkifSivas58/LeetSols/tree/master/2677-cousins-in-binary-tree-ii) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/AkifSivas58/LeetSols/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/AkifSivas58/LeetSols/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -249,6 +251,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0719-find-k-th-smallest-pair-distance](https://github.com/AkifSivas58/LeetSols/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/AkifSivas58/LeetSols/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2586-longest-square-streak-in-an-array](https://github.com/AkifSivas58/LeetSols/tree/master/2586-longest-square-streak-in-an-array) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/AkifSivas58/LeetSols/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Sorting
 |  |
 | ------- |
@@ -272,6 +275,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/AkifSivas58/LeetSols/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/AkifSivas58/LeetSols/tree/master/2586-longest-square-streak-in-an-array) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/AkifSivas58/LeetSols/tree/master/2631-sort-the-students-by-their-kth-score) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/AkifSivas58/LeetSols/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/AkifSivas58/LeetSols/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/AkifSivas58/LeetSols/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3291-find-if-array-can-be-sorted](https://github.com/AkifSivas58/LeetSols/tree/master/3291-find-if-array-can-be-sorted) |
@@ -293,6 +297,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/AkifSivas58/LeetSols/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/AkifSivas58/LeetSols/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/AkifSivas58/LeetSols/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/AkifSivas58/LeetSols/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3195-separate-black-and-white-balls](https://github.com/AkifSivas58/LeetSols/tree/master/3195-separate-black-and-white-balls) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/AkifSivas58/LeetSols/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Linked List
