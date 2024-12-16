@@ -171,6 +171,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/AkifSivas58/LeetSols/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3338-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/AkifSivas58/LeetSols/tree/master/3338-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/AkifSivas58/LeetSols/tree/master/3397-find-the-integer-added-to-array-i) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/AkifSivas58/LeetSols/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -331,6 +332,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2645-pass-the-pillow](https://github.com/AkifSivas58/LeetSols/tree/master/2645-pass-the-pillow) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/AkifSivas58/LeetSols/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/AkifSivas58/LeetSols/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/AkifSivas58/LeetSols/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Math
 |  |
 | ------- |
@@ -352,6 +354,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/AkifSivas58/LeetSols/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [2955-account-balance-after-rounded-purchase](https://github.com/AkifSivas58/LeetSols/tree/master/2955-account-balance-after-rounded-purchase) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/AkifSivas58/LeetSols/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/AkifSivas58/LeetSols/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Recursion
 |  |
 | ------- |
@@ -437,6 +440,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/AkifSivas58/LeetSols/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/AkifSivas58/LeetSols/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/AkifSivas58/LeetSols/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/AkifSivas58/LeetSols/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Merge Sort
 |  |
 | ------- |
