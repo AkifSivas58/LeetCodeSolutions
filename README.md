@@ -117,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/AkifSivas58/LeetSols/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/AkifSivas58/LeetSols/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/AkifSivas58/LeetSols/tree/master/0748-largest-number-at-least-twice-of-others) |
+| [0779-max-chunks-to-make-sorted-ii](https://github.com/AkifSivas58/LeetSols/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/AkifSivas58/LeetSols/tree/master/0780-max-chunks-to-make-sorted) |
 | [0859-design-circular-deque](https://github.com/AkifSivas58/LeetSols/tree/master/0859-design-circular-deque) |
 | [0870-magic-squares-in-grid](https://github.com/AkifSivas58/LeetSols/tree/master/0870-magic-squares-in-grid) |
@@ -266,6 +267,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/AkifSivas58/LeetSols/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/AkifSivas58/LeetSols/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/AkifSivas58/LeetSols/tree/master/0748-largest-number-at-least-twice-of-others) |
+| [0779-max-chunks-to-make-sorted-ii](https://github.com/AkifSivas58/LeetSols/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/AkifSivas58/LeetSols/tree/master/0780-max-chunks-to-make-sorted) |
 | [0948-sort-an-array](https://github.com/AkifSivas58/LeetSols/tree/master/0948-sort-an-array) |
 | [1256-rank-transform-of-an-array](https://github.com/AkifSivas58/LeetSols/tree/master/1256-rank-transform-of-an-array) |
@@ -291,6 +293,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0624-maximum-distance-in-arrays](https://github.com/AkifSivas58/LeetSols/tree/master/0624-maximum-distance-in-arrays) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/AkifSivas58/LeetSols/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0670-maximum-swap](https://github.com/AkifSivas58/LeetSols/tree/master/0670-maximum-swap) |
+| [0779-max-chunks-to-make-sorted-ii](https://github.com/AkifSivas58/LeetSols/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/AkifSivas58/LeetSols/tree/master/0780-max-chunks-to-make-sorted) |
 | [0890-lemonade-change](https://github.com/AkifSivas58/LeetSols/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/AkifSivas58/LeetSols/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -420,6 +423,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/AkifSivas58/LeetSols/tree/master/0042-trapping-rain-water) |
+| [0779-max-chunks-to-make-sorted-ii](https://github.com/AkifSivas58/LeetSols/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/AkifSivas58/LeetSols/tree/master/0780-max-chunks-to-make-sorted) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/AkifSivas58/LeetSols/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/AkifSivas58/LeetSols/tree/master/1002-maximum-width-ramp) |
@@ -600,6 +604,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/AkifSivas58/LeetSols/tree/master/0042-trapping-rain-water) |
+| [0779-max-chunks-to-make-sorted-ii](https://github.com/AkifSivas58/LeetSols/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/AkifSivas58/LeetSols/tree/master/0780-max-chunks-to-make-sorted) |
 | [1002-maximum-width-ramp](https://github.com/AkifSivas58/LeetSols/tree/master/1002-maximum-width-ramp) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/AkifSivas58/LeetSols/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
