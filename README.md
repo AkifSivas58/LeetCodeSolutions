@@ -169,6 +169,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/AkifSivas58/LeetSols/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2676-find-the-score-of-all-prefixes-of-an-array](https://github.com/AkifSivas58/LeetSols/tree/master/2676-find-the-score-of-all-prefixes-of-an-array) |
 | [2727-number-of-senior-citizens](https://github.com/AkifSivas58/LeetSols/tree/master/2727-number-of-senior-citizens) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/AkifSivas58/LeetSols/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2881-split-strings-by-separator](https://github.com/AkifSivas58/LeetSols/tree/master/2881-split-strings-by-separator) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/AkifSivas58/LeetSols/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3291-find-if-array-can-be-sorted](https://github.com/AkifSivas58/LeetSols/tree/master/3291-find-if-array-can-be-sorted) |
@@ -521,6 +522,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2411-spiral-matrix-iv](https://github.com/AkifSivas58/LeetSols/tree/master/2411-spiral-matrix-iv) |
 | [2625-increment-submatrices-by-one](https://github.com/AkifSivas58/LeetSols/tree/master/2625-increment-submatrices-by-one) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/AkifSivas58/LeetSols/tree/master/2631-sort-the-students-by-their-kth-score) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/AkifSivas58/LeetSols/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/AkifSivas58/LeetSols/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3338-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/AkifSivas58/LeetSols/tree/master/3338-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 ## Backtracking
@@ -553,6 +555,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1484-linked-list-in-binary-tree](https://github.com/AkifSivas58/LeetSols/tree/master/1484-linked-list-in-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/AkifSivas58/LeetSols/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/AkifSivas58/LeetSols/tree/master/2677-cousins-in-binary-tree-ii) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/AkifSivas58/LeetSols/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -561,6 +564,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/AkifSivas58/LeetSols/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/AkifSivas58/LeetSols/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/AkifSivas58/LeetSols/tree/master/2677-cousins-in-binary-tree-ii) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/AkifSivas58/LeetSols/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Binary Tree
 |  |
 | ------- |
@@ -628,4 +632,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/AkifSivas58/LeetSols/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+## Union Find
+|  |
+| ------- |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/AkifSivas58/LeetSols/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 <!---LeetCode Topics End-->
