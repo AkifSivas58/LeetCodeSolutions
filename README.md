@@ -641,4 +641,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/AkifSivas58/LeetSols/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/AkifSivas58/LeetSols/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
