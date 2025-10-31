@@ -646,5 +646,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0175-combine-two-tables](https://github.com/AkifSivas58/LeetSols/tree/master/0175-combine-two-tables) |
 | [0584-find-customer-referee](https://github.com/AkifSivas58/LeetSols/tree/master/0584-find-customer-referee) |
+| [1509-replace-employee-id-with-the-unique-identifier](https://github.com/AkifSivas58/LeetSols/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1908-recyclable-and-low-fat-products](https://github.com/AkifSivas58/LeetSols/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
